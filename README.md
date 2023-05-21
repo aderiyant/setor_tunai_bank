@@ -1,1 +1,1 @@
-# setor_tunai_bank
+pindahkan ke dalam file C:\xampp\htdocs
