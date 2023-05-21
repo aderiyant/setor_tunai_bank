@@ -1,0 +1,72 @@
+Nama Lengkap: asep
+Jenis Kelamin: laki-laki
+Kantor Cabang: Jakarta
+Nomor Rekening: 443762
+Nominal: 200000
+Biaya Admin: 5000
+Total: 205000
+-----------------------------
+Nama Lengkap: aderiyanto
+Jenis Kelamin: Laki-laki
+Kantor Cabang: Depok
+Nomor Rekening: 23617623
+Nominal: 100000
+Biaya Admin: 0
+Total: 100000
+-----------------------------
+Nama Lengkap: iis 
+Jenis Kelamin: Perempuan
+Kantor Cabang: Jakarta
+Nomor Rekening: 23617623
+Nominal: 100000
+Biaya Admin: 0
+Total: 100000
+-----------------------------
+Nama Lengkap: aderiyanto
+Jenis Kelamin: Laki-laki
+Kantor Cabang: Jakarta
+Nomor Rekening: 2326565
+Nominal: 100000
+Biaya Admin: 0
+Total: 100000
+-----------------------------
+Nama Lengkap: asep
+Jenis Kelamin: Laki-laki
+Kantor Cabang: Bogor
+Nomor Rekening: 23617623
+Nominal: 200000
+Biaya Admin: 5000
+Total: 205000
+-----------------------------
+Nama Lengkap     :aderiyanto
+Jenis Kelamin    :Laki-laki
+Kantor Cabang    :Jakarta      
+Nomor Rekening   :23617623
+Nominal: 200000
+Biaya Admin: 5000
+Total: 205000
+-----------------------------
+Nama Lengkap     : aderiyanto
+Jenis Kelamin    : Laki-laki
+Kantor Cabang    : Jakarta      
+Nomor Rekening   : 23617623
+Nominal          : 100000
+Biaya Admin      : 0
+Total            : 100000
+-----------------------------
+Nama Lengkap     : aderiyanto
+Jenis Kelamin    : Laki-laki
+Kantor Cabang    : Bekasi       
+Nomor Rekening   : 321123
+Nominal          : 100000
+Biaya Admin      : 0
+Total            : 100000
+-----------------------------
+Nama Lengkap     : aderiyanto
+Jenis Kelamin    : Laki-laki
+Kantor Cabang    : Bogor        
+Nomor Rekening   : 321123
+Nominal          : 200000
+Biaya Admin      : 5000
+Total            : 205000
+-----------------------------
